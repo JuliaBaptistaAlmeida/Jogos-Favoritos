@@ -1,0 +1,30 @@
+[
+    {
+        "nome": "Baldur's Gate 3",
+        "plataforma": "PS5",
+        "status": "Jogando",
+        "horas": 200,
+        "nota": 10.0
+    },
+    {
+        "nome": "The Sims",
+        "plataforma": "PC",
+        "status": "Jogando",
+        "horas": 10000,
+        "nota": 10.0
+    },
+    {
+        "nome": "Stardew Valley",
+        "plataforma": "Switch",
+        "status": "Jogando",
+        "horas": 500,
+        "nota": 10.0
+    },
+    {
+        "nome": "Hello Kitty Island Adventure",
+        "plataforma": "Switch",
+        "status": "Jogando",
+        "horas": 2,
+        "nota": 8.0
+    }
+]
