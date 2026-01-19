@@ -1,6 +1,6 @@
 """
 Meus Jogos Favoritos
-Sistema de gerenciamento
+Sistema de Gerenciamento
 Criado por Julia Baptista
 """
 
@@ -175,3 +175,4 @@ def menu():
 
 
 menu()
+
